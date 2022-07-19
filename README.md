@@ -23,6 +23,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dcangulo&count_private=true&hide_title=true&theme=dark&show_icons=true" alt="dcangulo-stats" />
 </p>
 
+## Languages
+
+<p align="left">
+  <img src="https://github-readme-stats-bear.vercel.app/api/top-langs/?username=dcangulo&hide_title=true&theme=dark&langs_count=10&layout=compact" alt="dcangulo-languages" />
+</p>
+
 ## Trophies
 
 <p align="left"> 
