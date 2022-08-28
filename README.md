@@ -20,6 +20,10 @@
 ## Stats
 
 <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dcangulo&theme=dark" alt="dcangulo-streak" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dcangulo&count_private=true&hide_title=true&theme=dark&show_icons=true" alt="dcangulo-stats" />
 </p>
 
