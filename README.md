@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React Native modules**
 
-- 👨‍💻 My projects are available at **[https://github.com/dcangulo](https://github.com/dcangulo)** or **[https://www.davidangulo.xyz/portfolio](https://www.davidangulo.xyz/portfolio)**
+- 👨‍💻 My projects are available at **[https://github.com/dcangulo](https://github.com/dcangulo)**
 
 - 📝 I write articles on **[https://www.davidangulo.xyz](https://www.davidangulo.xyz)**
 
