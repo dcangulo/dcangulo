@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working at **[Advance Tech Lending Inc.](https://github.com/advance-ph)**
 
-- 👯 I’m looking to collaborate on **React Native modules**
+- 🎓 I'm currently taking MSCS at **[Georgia Institute of Technology](https://www.gatech.edu)**
 
 - 👨‍💻 My projects are available at **[https://github.com/dcangulo](https://github.com/dcangulo)**
 
-- 📝 I write articles on **[https://www.davidangulo.xyz](https://www.davidangulo.xyz)**
+- 📝 I write tutorials on **[https://www.davidangulo.xyz](https://www.davidangulo.xyz)**
 
 - 💬 Ask me about **[Ruby](https://www.ruby-lang.org/en), [Ruby on Rails](https://rubyonrails.org), [React](https://reactjs.org), [Next.js](https://nextjs.org), [React Native](https://reactnative.dev), [Expo](https://expo.dev), and [WordPress Plugin](https://wordpress.org/plugins)**
 
-- 📫 Reach me at **hello@davidangulo.xyz**
+- 📫 Reach me at **hello@davidangulo.xyz** or **[LinkedIn](https://www.linkedin.com/in/dcangulo)**
 
 ## Stats
 
